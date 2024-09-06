@@ -1,0 +1,82 @@
+
+
+body{
+    font-family: "open sans", "sans-serif";
+}
+.green-line{
+    height: 20px;
+    background-color: #117050;
+}
+.container-fluid{
+    padding: 0;
+    margin:0;
+}
+
+header .logo img{
+    width: 64px;
+    height: auto;
+    
+}
+
+.header-line{
+    height: 100px;
+
+}
+
+header input{
+    height: 45px;
+    width: 250px;
+}
+
+.loupe{
+    margin-left: -40px;
+    width: 30px;
+    margin-right: 50px;
+}
+
+ .menu{
+    width: 25px;
+}
+
+/* seçao 01 */
+
+.secao1{
+    background-image: url(../images/bg.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+
+    
+}
+
+
+
+.secao1 .content{
+    padding: 270px 0;
+    
+}
+
+
+.secao1 h1{
+    font-family: "Oswald", "sans-serif";
+    font-size: 90px;
+}
+
+.secao1 p{
+    margin: 20px 0;
+}
+
+.secao1 img{
+    height: auto;
+    width: 160px;
+    border-radius: 50%;
+    border: 9px solid #117050 ;
+    margin-right: 40px;
+
+
+}
+/* seçao 2 */
+
+.secao2 aside{
+    padding: 0;
+    margin: 0;
+}
